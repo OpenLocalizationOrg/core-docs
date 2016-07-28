@@ -29,7 +29,7 @@
     },
     {
       "path_to_root": "api_ref",
-      "url": "https://github.com/docascode/coreapi.git",
+      "url": "https://github.com/docascode/coreapi.zh-cn.git",
       "branch": "master"
     }
   ]
