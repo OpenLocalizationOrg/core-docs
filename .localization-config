@@ -1,5 +1,5 @@
 {
-  "locales": [ "zh-cn", "ja-jp" ],
+  "locales": [ "zh-cn" ],
   "files": ["**/*.md"],
   "includeDependencies": true,
   "autoPush": true,
